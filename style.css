@@ -1191,6 +1191,10 @@ body{
     align-items: center;
     width: 100%;
   }
+
+.nomespersonagens .Ganondorf{
+    width: 50%;
+}
   
   .nomespersonagens .nome-card{
     position: relative;
